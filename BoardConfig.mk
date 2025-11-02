@@ -150,3 +150,8 @@ LZMA_RAMDISK_TARGETS := recovery
 # Debug
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
+
+# PBRB Flags
+PB_OFFICIAL := falss
+PB_DISABLE_DEFAULT_DM_VERITY := true
+PB_TORCH_PATH := /sys/class/leds/flashlight
