@@ -25,9 +25,7 @@
 #### • Credits
 > • Eureka Team for their DT & Kernel.
 > 
-> • Royna for new Eureka-Kernel with EROFS support.
->
-> • Kevios12 because yes.
+> • nnghlong for new 4.4 EROFS Backport.
 > 
 > • TWRP Team for their Recovery.
 > 
