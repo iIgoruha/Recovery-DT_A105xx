@@ -30,7 +30,7 @@ default_Settings() {
     export OF_SCREEN_H="1520"
     export OF_STATUS_H=82
     export FOX_BUILD_TYPE="Stable"
-    export FOX_MAINTAINER_PATCH_VERSION="1"
+    export FOX_MAINTAINER_PATCH_VERSION=""
     export OF_ADVANCED_SECURITY=1
     export OF_STATUS_INDENT_LEFT=64
     export OF_STATUS_INDENT_RIGHT=64
