@@ -23,14 +23,14 @@ default_Settings() {
     export OF_USE_MAGISKBOOT_FOR_ALL_PATCHES="1"
     export OF_USE_NEW_MAGISKBOOT="1"
     export TARGET_ARCH="arm64"
-    export TW_DEFAULT_LANGUAGE="en"
-    export FOX_VERSION="R12.1"
+    export TW_DEFAULT_LANGUAGE="ru"
     export USE_CCACHE="0"
     export OF_FLASHLIGHT_ENABLE="1"
     export OF_FL_PATH1="/system/flashlight"
     export OF_SCREEN_H="1520"
     export OF_STATUS_H=82
-    export FOX_BUILD_TYPE="official"
+    export FOX_BUILD_TYPE="Stable"
+    export FOX_MAINTAINER_PATCH_VERSION="1"
     export OF_ADVANCED_SECURITY=1
     export OF_STATUS_INDENT_LEFT=64
     export OF_STATUS_INDENT_RIGHT=64
